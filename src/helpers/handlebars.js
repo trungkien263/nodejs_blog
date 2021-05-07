@@ -8,8 +8,8 @@ module.exports = {
 
         const icons = {
             default: 'fas fa-sort',
-            asc: 'fas fa-sort-amount-up',
-            desc: 'fas fa-sort-amount-up-alt',
+            asc: 'fas fa-sort-amount-up-alt',
+            desc: 'fas fa-sort-amount-up',
         };
         const types = {
             default: 'desc',
